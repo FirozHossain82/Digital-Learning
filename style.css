@@ -1,0 +1,5 @@
+.img-color{
+    filter: brightness(45%);
+    height: 700px;
+    width: 100vw;
+}
